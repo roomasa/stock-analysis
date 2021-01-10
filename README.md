@@ -12,8 +12,11 @@ To help Steve analyze Stock data and assist his parents in deciding which stocks
 ## Results
 In 2018, ENPH stocks and RUN stocks had the highest percentage return and ENPH also had the highest total daily volume. DQ stocks had a negative 63% return.
 In 2017, DQ did well with one of the highest returns (199%). ENPH and RUN stocks had a positive return in 2017, of 129.5% and 5.5% respectively. 
+
+
 ![2017 result](https://github.com/roomasa/stock-analysis/blob/main/2017.png)
 
+![2018](https://github.com/roomasa/stock-analysis/blob/main/2018.png) 
  
 
 ## Summary
