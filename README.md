@@ -19,7 +19,7 @@ In 2017, DQ did well with one of the highest returns (199%). ENPH and RUN stocks
 The refactored code is more efficient thant the original code. The nested for loops in the original code made it less efficient than the performace of the refactored code. 
 
 ![2017](https://github.com/roomasa/stock-analysis/blob/main/Resources/2017%20time.png) 
-![2018](
+![2018](https://github.com/roomasa/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png%20.png)
 
 ### Pros and Cons of Refactoring the Code
 Pros: Code runs faster, is more efficient and can therefore be used on larger datasets such as analyzing the entire stock market. 
