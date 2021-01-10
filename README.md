@@ -11,10 +11,6 @@ To help Steve analyze Stock data and assist his parents in deciding which stocks
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
- 
-### Analysis of Outcomes Based on Goals
-
 ### Pros and Cons of Refactoring the Code
 Pros: Code runs faster, is more efficient and can therefore be used on larger datasets such as analyzing the entire stock market. 
 Cons: Takes time to figure out how to make the code more efficient. 
